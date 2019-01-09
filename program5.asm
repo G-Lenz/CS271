@@ -3,7 +3,7 @@ TITLE program4     (program4.asm)
 ; Author: George Lenz
 ; Email: lenzg@oregonstate.edu
 ; CS 271-400 / Project3           Due Date:2/18/2018
-; Description: Displays a user specified number of composite numbers.
+; Description: Creates a random array, sorts the numbers and finds the median.
 
 INCLUDE Irvine32.inc
 
